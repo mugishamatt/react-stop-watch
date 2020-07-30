@@ -1,9 +1,7 @@
-class Stop  extends Component {
+class  Stopwach extends Component {
     constructor(props) {
         super(props);
-        this.state = {  
-            starttime:0
-        }
+        this.state = {  }
     }
     render() { 
         return ( <div>
@@ -12,4 +10,4 @@ class Stop  extends Component {
     }
 }
  
-export default Stop ;
+export default Stopwach;
