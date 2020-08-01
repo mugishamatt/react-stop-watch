@@ -26,19 +26,19 @@ margin-bottom: 30px;
   cursor:pointer;
   padding:8px;
 
-  border-radius: 30%;
+  border-radius: 50%;
 
 }
 #reset{
 
-  border:solid blue;
+  border:solid red;
   cursor:pointer;
   padding:8px;
   border-radius: 30%;
 }
 #pause{
 
-  border:solid blue;
+  border:solid tomato;
   cursor:pointer;
   padding:8px;  
   border-radius: 30%;
